@@ -1,0 +1,14 @@
+{
+    "name": "Eco-Runner",
+    "short_name": "EcoRunner",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "description": "Sitio web de Ecorunner",
+    "icons": [
+         {
+            "src": "./imagenes/Logo.png",
+            "sizes": "500x500",
+            "type": "image/png"
+         }
+    ]
+}
